@@ -19,4 +19,4 @@ To run the code, follow these steps:
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/yourusername/DenseViT-XGB.git
+git clone https://github.com/inesNeji/DenseViT-XGB.git
